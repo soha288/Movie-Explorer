@@ -39,8 +39,6 @@ Start exploring movies!
     Handling asynchronous requests (fetch)
 
     Responsive design using CSS
-    🔗 Links
-
-    Live Demo
-
-    GitHub Repository https://github.com/soha288/Movie-Explorer/
+🔗 Links
+https://soha288.github.io/Movie-Explorer/
+https://github.com/soha288/Movie-Explorer/
