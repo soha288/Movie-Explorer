@@ -40,5 +40,7 @@ Start exploring movies!
 
     Responsive design using CSS
 🔗 Links
+live demo
 https://soha288.github.io/Movie-Explorer/
+repository
 https://github.com/soha288/Movie-Explorer/
