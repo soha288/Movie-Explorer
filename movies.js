@@ -68,7 +68,7 @@ function showHeroBanner(movie) {
     overview.textContent = movie.overview;
   
     // Fetch trailer video from TMDb
-    fetch(`https://api.themoviedb.org/3/movie/${movie.id}/videos?api_key=9b5a074fe936e3992afbca0c64d9c887`)
+    fetch(`https://api.themoviedb.org/3/movie/${movie.id}/videos?api_key=7aca115a239af688774f7bd8e23ad96e`)
       .then(res => res.json())
       .then(data => {
         const trailer = data.results.find(
