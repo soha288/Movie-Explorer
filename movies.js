@@ -1,10 +1,10 @@
 console.log("JS Loaded");
 
 
-const API_KEY = '9b5a074fe936e3992afbca0c64d9c887';
+const API_KEY = '7aca115a239af688774f7bd8e23ad96e';
 const APILINK = `https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc&api_key=${API_KEY}`;
 const IMGPATH = '	https://image.tmdb.org/t/p/w1280';
-const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?include_adult=false&language=en-US&page=1&api_key=9b5a074fe936e3992afbca0c64d9c887&query='";
+const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?include_adult=false&language=en-US&page=1&api_key=7aca115a239af688774f7bd8e23ad96e&query='";
 
 const main=document.getElementById("section");
 const form=document.getElementById("form");
